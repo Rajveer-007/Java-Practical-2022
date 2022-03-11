@@ -1,4 +1,6 @@
 import java.util.*;
+
+import javax.lang.model.util.ElementScanner14;
 class BankAccount{
 	int balance;
 	String name;
@@ -55,6 +57,9 @@ class BankAcc1{
 							b[i] = new BankAccount(j);
 							b[i].createAcc();
 							i = i + 1;
+						}
+						else{
+							System.out.println("Sorry! You have already created " +accnum+ " Accounts.");
 						}
 					break;
 					case 2: 
