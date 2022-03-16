@@ -71,6 +71,7 @@ Sum of two Time Object is 15:51:20
 
 
 Methode 2 output ===>
-10:30:125:15:12
+10:30:12
+5:15:12
 Sum of two Time Object is 15:45:24
 
