@@ -51,3 +51,26 @@ public class time {
     }
 
 }
+
+/* OUTPUT ==>
+
+Methode 1 output ===>
+Enter Time T1 members values
+10
+15
+5
+Enter Time T2 members values
+5
+36
+15
+10:15:5
+5:36:15
+Time Object T1 is 10:15:5
+Time Object T2 is 5:36:15
+Sum of two Time Object is 15:51:20
+
+
+Methode 2 output ===>
+10:30:125:15:12
+Sum of two Time Object is 15:45:24
+
