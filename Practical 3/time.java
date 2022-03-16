@@ -22,6 +22,30 @@ public class time {
         time t1 = new time(10,30,12);
         time t2 = new time(5,15,12);
         sumTime(t1,t2);
+        
+        /* 
+        Scanner in = new Scanner(System.in);
+        
+        System.out.println("Enter Time T1 members values");
+        int ht1 = in.nextInt();
+        int mt1 = in.nextInt();
+        int st1 = in.nextInt();
+
+        System.out.println("Enter Time T2 members values");
+        
+        int ht2 = in.nextInt();
+        int mt2 = in.nextInt();
+        int st2 = in.nextInt();
+     
+        
+        time t1 = new time(ht1,mt1,st1);
+        time t2 = new time(ht2,mt2,st2);
+
+        System.out.println("Time Object T1 is " + ht1 + ":" + mt1 +  ":" + st1);
+        System.out.println("Time Object T2 is " + ht2 + ":" + mt2 +  ":" + st2);
+        sumTime(t1,t2);
+        
+        */
     }
 
 }
